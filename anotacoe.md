@@ -2,3 +2,4 @@
 
 Cliente (insomnia) <--> API Nodejs/TypeScript <--> WhatsApp Web
 Usando a lib Wppconnect
+### projeto em desenvolvimento.
